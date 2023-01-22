@@ -8,7 +8,7 @@ setup(
   description = 'A Python package to find TOPSIS for multi-criteria decision analysis method',   # Give a short description about your library
   author = 'ADITI NIRWAN',                   # Type in your name
   author_email = 'anirwan_be20@thapar.edu',      # Type in your E-Mail
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
+  url = 'https://github.com/aditinirwan/Topsis-Aditi-102003380',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['Topsis', 'Data Science', 'UCS654'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
